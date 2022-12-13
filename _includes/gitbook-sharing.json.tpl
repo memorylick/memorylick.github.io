@@ -1,0 +1,15 @@
+            "sharing": {
+                "all": ["facebook", "google", "twitter", "weibo", "instapaper", "github", "telegram", "website", "patreon"],
+                "facebook": false,
+                "google": false,
+                "github": false,
+                "github_link": "https://github.com",
+                "telegram": false,
+                "telegram_link": "https://t.me",
+                "instapaper": false,
+                "twitter": true,
+                "vk": false,
+                "weibo": false,
+                "website": true,
+                "patreon": true
+            },
